@@ -1,4 +1,3 @@
 # hello-world
-its the beginning of a great change
-
 hello there !!
+Its a basic repository to understand the work flow of github
